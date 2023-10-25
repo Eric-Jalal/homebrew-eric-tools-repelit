@@ -6,7 +6,7 @@ class Repelit < Formula
   license "MIT"
 
   def install
-    bin.install "rep:lit.py" => "repelit"
+    bin.install "replit.py" => "repelit"
   end
 end
 
